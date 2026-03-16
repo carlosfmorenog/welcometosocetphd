@@ -1,3 +1,3 @@
-Starting Pack for Research Degree students @ SOCET RGU
+# Starting Pack for Research Degree students @ SOCET RGU
 
--Slides: [Here](https://carlosfmorenog.github.io/welcometosocetphd)
+- Slides: [Here](https://carlosfmorenog.github.io/welcometosocetphd)
